@@ -1,8 +1,8 @@
-//criar um esquema livraria
+--criar um esquema livraria
 
 CREATE SCHEMA `livraria` ;
 
-crie uma table livro
+--crie uma table livro
 
 CREATE TABLE `livraria`.`livros` (
   `idlivros` INT NOT NULL AUTO_INCREMENT,
